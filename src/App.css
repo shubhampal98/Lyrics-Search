@@ -1,12 +1,12 @@
 body {
   /* font-family: Monaco sans-serif; */
-  background: #191919;
+  background: #581845;
 }
 
 .card {
-  background: #121212;
+  background: #6a5acd;
   color: white;
-  border-color: #353c51;
+  border-color: #ee82ee;
 }
 
 nav {
@@ -24,7 +24,7 @@ h3 {
 
 .form-group input[type="text"] {
   background: #121212;
-  border: 2px solid #353c51;
+  border: 2px solid #ee82ee;
   color: white;
 }
 
